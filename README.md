@@ -1,2 +1,2 @@
-# sashimetriweb
- Geometrical drawing made easy
+# Sashimetri
+ Sashimetri es un proyecto personal para dibujar figuras geometricas tipo mandala
